@@ -8,4 +8,4 @@ Simple interpreted language that has the following functionality at the moment:
 4. Simple Arithmetic 
 
 Credits:
-https://www.youtube.com/watch?v=vcSijrRsrY0&list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs
+1. https://www.youtube.com/watch?v=vcSijrRsrY0&list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs
